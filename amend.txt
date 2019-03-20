@@ -1,0 +1,2 @@
+#Next line should be translated
+Привет, мир!
